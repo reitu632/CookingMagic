@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF9800</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">CookingMagic</string>
+    <string name="gcm_defaultSenderId" translatable="false">378976238391</string>
+    <string name="google_api_key" translatable="false">AIzaSyBx0dd7ItDGEIMTc_WqtIUFGSGURvw5jdY</string>
+    <string name="google_app_id" translatable="false">1:378976238391:android:df61e11b88e256d35f38b2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBx0dd7ItDGEIMTc_WqtIUFGSGURvw5jdY</string>
+    <string name="google_storage_bucket" translatable="false">cookingmagic-209ba.firebasestorage.app</string>
+    <string name="project_id" translatable="false">cookingmagic-209ba</string>
+    <style name="Base.Theme.CookingMagic" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.CookingMagic" parent="Base.Theme.CookingMagic"/>
+</resources>
