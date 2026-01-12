@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\ingredient_layout_card.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\ingredient_layout_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_tip_four.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_tip_four.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_tip_three.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_tip_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_options.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\item_story.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\item_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\recipe_layout_card.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\recipe_layout_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_favorite_recipies.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_favorite_recipies.xml"
+    },
+    {
+        "merged": "com.example.cookingmagic.app-mergeDebugResources-48:/layout/activity_options.xml",
+        "source": "com.example.cookingmagic.app-main-51:/layout/activity_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_search_recipe.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_search_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_view_recipies.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_view_recipies.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_tip_five.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_tip_five.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_tip_two.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_tip_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_add_recipie.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_add_recipie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_tip_one.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_tip_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Naledi\\.gradle\\daemon\\8.13\\com.example.cookingmagic.app-main-51:\\layout\\activity_main.xml"
+    }
+]
